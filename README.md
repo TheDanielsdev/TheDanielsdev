@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADENIRAN Daniel</h1>
-<h3 align="center">Courteous, enthusiastic solution-driven Mobile Application Developer adept at contributing to a highly collaborative work environment, I am interested in IT and everything in its orbit and I am eagerly ready to bring my present knowledge of Mobile Development to make ideas come to reality. I am a ​Creative thinker and I love to research.</h3>
+<h3 align="center">A Mobile Application Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedanielsdev" alt="thedanielsdev" /></a> </p>

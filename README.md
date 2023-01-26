@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **thedanielsdev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rXzPO0O_N5P90Av8nqH1tRq3SobMiOLf/view?usp=share_link](https://drive.google.com/file/d/1rXzPO0O_N5P90Av8nqH1tRq3SobMiOLf/view?usp=share_link)
-
 - ⚡ Fun fact **I like and or love football**
 
 

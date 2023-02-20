@@ -9,7 +9,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [ZikLogistics & Skupal](http://skupal.xyz/)
+- 🔭 I’m currently working on [Skupal](http://skupal.xyz/)
 
 - 🌱 I’m currently learning **Node.js**
 

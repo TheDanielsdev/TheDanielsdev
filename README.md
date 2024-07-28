@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADENIRAN Daniel</h1>
-<h3 align="center">A Mobile Application Developer.</h3>
+<h3 align="center">A Full Stack Mobile Application Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
 <p align="left">
@@ -9,11 +9,11 @@
 </p>
 
 
-- 🔭 I’m currently working on [Skupal](http://skupal.xyz/)
+- 🔭 I’m currently working on [Segun Daniels Software Consulting](https://sdsc.42web.io)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **Flutter, Dart, Javascipt,Css State Management tools, WASM**
+- 💬 Ask me about **Flutter, Dart, Javascipt, Java**
 
 - 📫 How to reach me **thedanielsdev@gmail.com**
 

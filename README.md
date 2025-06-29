@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **Flutter, Dart, Javascipt, Java**
+- 💬 Ask me about **Flutter, Dart, Javascipt, Java, Nest**
 
 - 📫 How to reach me **thedanielsdev@gmail.com**
 
